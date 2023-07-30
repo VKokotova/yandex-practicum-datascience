@@ -2,7 +2,7 @@
 
 Here are some completed projects
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Project name                | Description                                                     | Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Exploring music service data](https://github.com/VKokotova/ds-portfolio/tree/main/01-music_service_investigation) | Comparition of users of two cities| python, pandas       |
 | 2.   | [Borrower Reliability Study - Banking Data Analysis](https://github.com/VKokotova/ds-portfolio/tree/main/02-research_reliaility_borrowes) | Based on statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repaying the loan on time | python, pandas, data preprocessing |
